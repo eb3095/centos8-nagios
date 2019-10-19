@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Install dependencies
 yum install -y gcc glibc glibc-common openssl openssl-devel perl wget make gettext automake net-snmp net-snmp-utils epel-release
 
