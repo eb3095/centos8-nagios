@@ -1,2 +1,2 @@
-# centos8-nrpe
-Install nrpe on Centos 8
+# centos8-nagios
+Install nagios and nrpe on Centos 8
